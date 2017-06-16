@@ -13,7 +13,7 @@ acrylic sheet.
 
  * [Source SVG](mini_award.svg)
  * [EPS format](mini_award.eps)
- * [As PDF](mini_award.dxf)
+ * [As PDF](mini_award.pdf)
 
 While the file is sized to fit on an A4 sheet size, it can be scaled 
 down to a small size (~5cm square) and still be legible.
