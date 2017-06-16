@@ -1,4 +1,4 @@
-#Little Big Chip Award
+# Little Big Chip Award
 
 When Things north won the IoT Impact Award at the 2017 Big Chip Awards, 
 they were presented with a single trophy. But, as the official trophy is 
